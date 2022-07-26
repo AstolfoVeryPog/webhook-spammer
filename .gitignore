@@ -1,0 +1,7 @@
+
+*.txt
+.python-version
+bin
+lib
+lib64
+pyvenv.cfg
